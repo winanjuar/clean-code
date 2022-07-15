@@ -8,7 +8,7 @@ public class GildedRoseRefactoredTest {
 	
 	private static final int POSITIVE_SELLIN_LESS_THAN_5 = 2;
 	private static final int SELLIN_BETWEEN_5_AND_10 = 7;
-	private static final String BACKSTAGE_PASSES = "Backstage passes to a TAFKAL80ETC concert";
+	private static final String BACKSTAGE_PASSES = "Backstage passes to a concert";
 	private static final int SELLIN_GREATER_THAN_10 = 15;
 	private static final int MAXIMUM_QUALITY = 50;
 	private static final String AGED_BRIE = "Aged Brie";
